@@ -1,0 +1,26 @@
+{
+  "name": "rev-_eng_auth",
+  "version": "1.0.0",
+  "description": "MySQL mgt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elshie21/rev-_eng_auth.git"
+  },
+  "keywords": [
+    "Mysql",
+    "homework"
+  ],
+  "author": "Elshaddai Akindele",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elshie21/rev-_eng_auth/issues"
+  },
+  "homepage": "https://github.com/elshie21/rev-_eng_auth#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
